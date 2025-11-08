@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[10186,["/Next.js-App/_next/static/chunks/51f14a8b3793e343.js","/Next.js-App/_next/static/chunks/c5c3060a88ed0097.js"],"ViewportBoundary"]
+4:I[10186,["/Next.js-App/_next/static/chunks/51f14a8b3793e343.js","/Next.js-App/_next/static/chunks/c5c3060a88ed0097.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+:HL["/Next.js-App/_next/static/chunks/4d7382b341d461e0.css","style"]
+:HL["/Next.js-App/_next/static/media/26aa48c1bdeb5547-s.p.37505e65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Next.js-App/_next/static/media/2c14ef3b1730a370-s.p.e968aaaa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Next.js-App/_next/static/media/47185047d9bf99cc-s.p.d735fa8f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Next.js-App/_next/static/media/73dad0f38d33c0e8-s.p.55ed798d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Next.js-App/_next/static/media/96b1e74d4610abd3-s.p.b1584a11.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Next.js-App/_next/static/media/9c25569e5bfeaac2-s.p.976a3fa4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Next.js-App/_next/static/media/a3b21dc8e8180cb3-s.p.54b29c11.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Next.js-App/_next/static/media/a6fa2da6a1aa1b4a-s.p.f1f34c22.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Next.js-App/_next/static/media/b66541dc5358997a-s.p.82f7d62c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Next.js-App/_next/static/media/e1236bfba9445d2b-s.p.46ca987d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Next.js-App/_next/static/media/printforge-desktop.2a3ba0a6.svg","image"]
+:HL["/Next.js-App/_next/static/media/printforge-mobile.aa2863f6.svg","image"]
+:HL["/Next.js-App/_next/static/media/placeholder.e5f6bfcf.png","image"]
+0:{"buildId":"gxXBw-_wS1wGqbuhGK_GA","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"3d-models","paramType":null,"paramKey":"3d-models","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"23","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isHeadPartial":false,"staleTime":300}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[]
