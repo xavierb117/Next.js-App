@@ -1,8 +1,9 @@
 import Pill from "@/app/components/Pill"
+import type { ModelDetailPageProps } from "@/app/types"
 import { getModelById } from "@/app/lib/models"
 import placeholderImg from "@/public/placeholder.png"
 
-export default async function ModelDetailPage({ params }) {
+export default async function ModelDetailPage({ params }: ModelDetailPageProps) {
   const { id } = await params
   const model = await getModelById(id)
 

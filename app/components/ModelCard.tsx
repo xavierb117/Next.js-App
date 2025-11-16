@@ -1,8 +1,9 @@
 import Link from "next/link"
 import Pill from "./Pill"
+import { ModelCardProps } from "@/app/types"
 import placeholderImg from "@/public/placeholder.png"
 
-export default function ModelCard({ model }) {
+export default function ModelCard({ model }: ModelCardProps) {
     return (
         <Link
             href={`/3d-models/${model.id}`}

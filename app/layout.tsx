@@ -1,7 +1,7 @@
 import "./globals.css";
-import Header from './components/Header.jsx'
-import {Albert_Sans, Montserrat_Alternates} from "next/font/google"
-import type {RootLayoutProps} from "@/app/types"
+import type { RootLayoutProps } from "@/app/types"
+import { Albert_Sans, Montserrat_Alternates } from "next/font/google"
+import Navbar from "@/app/components/Navbar"
 
 const albertSans = Albert_Sans({
   subsets: ["latin"],
@@ -15,12 +15,11 @@ const montserratAlternates = Montserrat_Alternates({
   variable: "--font-montserrat-alternates"
 })
 
-
-export default function RootLayout({children}: RootLayoutProps) {
+export default function RootLayout({ children }: RootLayoutProps) {
   return (
     <html lang="en">
-      <body className = {`${albertSans.className} ${montserratAlternates.variable}`}>
-        <Header />
+      <body className={`${albertSans.className} ${montserratAlternates.variable}`}>
+        <Navbar />
         {children}
       </body>
     </html>

@@ -1,6 +1,6 @@
-import printForgeImage from "@/public/print-forge-square.png"
+import HeroImageSquare from "@/public/hero-image-square.png"
 
-export default function About() {
+export default function AboutPage() {
     return (
         <main>
             <section className="container max-w-4xl px-4 py-8 mx-auto">
@@ -12,7 +12,7 @@ export default function About() {
                     <div className="relative h-[300px] w-full">
 
                         <img
-                            src={printForgeImage.src}
+                            src={HeroImageSquare.src}
                             alt="PrintForge Community - A group of makers collaborating on 3D printing projects"
                             className="absolute inset-0 w-full h-full object-cover rounded-lg"
                         />
